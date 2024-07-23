@@ -1,4 +1,4 @@
-# java-spring-conecpts
+# Java Spring Concepts
 overview of java spring ecosystem concepts to remember and use them.
 
 
