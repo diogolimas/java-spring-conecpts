@@ -15,4 +15,8 @@ overview of java spring ecosystem concepts to remember and use them.
 
 2 - when is more commonly used a sealed class?
 
- - 
+
+3 - when specification in java-spring is used? 
+ - build where the criteria to write sql query
+ - reuse predicate dynamically
+ - source: https://docs.spring.io/spring-data/jpa/reference/jpa/specifications.html
